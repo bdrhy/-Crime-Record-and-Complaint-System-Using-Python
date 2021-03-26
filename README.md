@@ -1,1 +1,4 @@
 # -Crime-Record-and-Complaint-System-Using-Python
+The “CRIME RECORD AND COMPLAINT SYSTEM” is a web based website for online complaining and computerized management of crime records. Here in this website a person who wishes to file a complaint or report an incident must register before log in and once the admin authenticates the user he or she can login into the website and file a complaint .
+
+This complaint will be received by police and police can send a message regarding status of the complaint to the user who filed the complaint. Police can use this software to manage different crimes and some of the works which is done in police station manually. Police gets their login password from admin directly.Police can record all the criminal data and can use further. So this website helps police to find out the problems in the society without them actually coming to the police station.
