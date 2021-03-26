@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\crime",
+    "\\media",
+    "\\static",
+    "\\static\\build",
+    "\\static\\build\\css",
+    "\\static\\build\\images",
+    "\\static\\build\\js",
+    "\\static\\css",
+    "\\templates"
+  ],
+  "SelectedNode": "\\static\\vendors",
+  "PreviewInSolutionExplorer": false
+}
